@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Health Report Analyzer",
+  "description": "An intelligent dashboard that analyzes uploaded health reports (PDFs, images), provides a clear summary, risk assessment, personalized recommendations, and a timeline view of your health metrics. Features an AI chatbot to explain results in simple terms.",
+  "requestFramePermissions": []
+}
